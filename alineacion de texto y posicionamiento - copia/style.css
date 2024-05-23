@@ -1,0 +1,69 @@
+
+.parrafo1
+{
+    font-style:normal;
+    font-family:arial;
+    font-size: 16px;
+    text-align: left;
+}
+
+.textonegrita
+{
+	font-weight:bold;
+}
+
+.bluesub
+{
+    color:blue;
+    text-decoration: underline;
+}
+
+.parrafo2
+{
+    font-style:italic;
+    font-family:courier;
+    font-size: 16px;
+    text-align: left;
+}
+
+.bluesubnegrita
+{
+    color:blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.parrafo3
+{
+    font-style:normal;
+    font-family:arial;
+    font-size: 16px;
+    text-align: left;
+}
+
+.parrafo4
+{
+    font-style:normal;
+    font-family:arial;
+    font-size: 11px;
+    color:grey;
+    text-align: left;
+}
+
+.subtitulo
+{
+    font-style:normal;
+    font-family:arial;
+    font-size: 16px;
+    color:violet;
+    text-align: center;
+
+}
+
+.parrafo5
+{
+    font-style:normal;
+    font-family:courier;
+    font-size: 16px;
+    text-align: left;
+}
