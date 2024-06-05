@@ -1,0 +1,47 @@
+.cabecera
+{
+	font-family:normal;
+    text-align:center;
+    font-style: normal;
+    background-color:grey;
+}
+
+.titulo
+{
+	font-family:Courier;
+    text-align:center;
+    height: 50px;
+    font-style: italic;
+}
+
+.fondoblue
+{
+    background-color: blue;
+    
+}
+
+.centrado
+{
+    text-align:center;
+    width:50%;
+    background-color:white;
+    margin: auto;
+
+}
+
+.derecha
+{
+    text-align: right;
+}
+
+.izquierda
+{
+    text-align: left;
+}
+
+.area
+{
+    width:20%;
+    text-align: left;
+}
+
